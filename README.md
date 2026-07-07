@@ -1,4 +1,4 @@
-# my_macropad
+# macropad
 
 A custom 3x3 mechanical macropad based on the Seed Studio XIAO RP2040.
 
